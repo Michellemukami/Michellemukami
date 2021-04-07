@@ -8,5 +8,5 @@ Hello there 👋
 - 😄 Pronouns: her/she/female
 - ⚡ Hoddies:manga art
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michellemukami&layout=compact&theme=dark)](https://github.com/Michellemukami/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michellemukami&layout=compact&theme=synthwave)](https://github.com/Michellemukami/github-readme-stats)
 
