@@ -1,7 +1,5 @@
 Hello there 👋 
-[![Linkedin][linkedin]][linkedin-url]
-[![Twitter][twitter]][twitter-url]
-[![Instagram][instagram]][instagram-url]
+
 - 🔭 I’m currently working on a manga reader app
 - 🌱 I’m currently a student learning Mathmatics and Computer Science
 - 💬 Ask me about anything
@@ -11,7 +9,9 @@ Hello there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michellemukami&layout=compact&theme=synthwave)](https://github.com/Michellemukami/github-readme-stats)
 
-
+[![Linkedin][linkedin]][linkedin-url]
+[![Twitter][twitter]][twitter-url]
+[![Instagram][instagram]][instagram-url]
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-url]: https://linkedin.com/in/michelle-mukami-72ab7118a
