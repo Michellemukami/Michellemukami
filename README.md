@@ -14,7 +14,7 @@ Hello there 👋
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-url]: linkedin.com/in/michelle-mukami-72ab7118a
+[linkedin-url]: https://linkedin.com/in/michelle-mukami-72ab7118a
 [twitter-url]: https://twitter.com/GiatuMichelle
 [instagram-url]: https://www.instagram.com/_kami_mukami_/ 
 [instagram]: https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=E4405F
