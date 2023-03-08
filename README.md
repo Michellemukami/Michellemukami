@@ -1,7 +1,7 @@
 Hello there 👋 
 
-- 🔭 I’m currently working on a manga reader app
-- 🌱 I’m currently a student learning Mathmatics and Computer Science
+- 🔭 I’m currently working on a Graphical novel reader app
+- 🌱 I’m currently in my last semester undertaking Bsc. Mathmatics and Computer Science
 - 💬 Ask me about anything
 - 📫 How to reach me: mitchellemukami.g@gmail.com
 - ⚡ Hoddies:manga art
