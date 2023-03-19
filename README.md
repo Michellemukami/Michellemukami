@@ -4,7 +4,7 @@ Hello there 👋
 - 🌱 I’m currently in my last semester undertaking Bsc. Mathmatics and Computer Science
 - 💬 Ask me about anything
 - 📫 How to reach me: mitchellemukami.g@gmail.com
-- ⚡ Hoddies:manga art
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michellemukami&layout=compact&theme=synthwave)](https://github.com/Michellemukami/github-readme-stats)
 
