@@ -1,7 +1,4 @@
 Hello there 👋 
-
-- 🔭 I’m currently working on a Graphical novel reader app
-- 🌱 I’m currently in my last semester undertaking Bsc. Mathmatics and Computer Science
 - 💬 Ask me about anything
 - 📫 How to reach me: mitchellemukami.g@gmail.com
 
