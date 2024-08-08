@@ -1,5 +1,7 @@
 <!-- Your Name -->
 # 👋 Hi, I'm Michelle!
+![Galaxy Orb Twitch Banner2](https://github.com/user-attachments/assets/d39bcb77-fd1b-40fc-ac3d-7060d34a9b82)
+
 
 ## 🚀 About Me
 I'm a passionate developer with a love for Frontend development. I enjoy working on exciting projects and exploring new technologies.
