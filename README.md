@@ -1,6 +1,5 @@
 <!-- Your Name -->
 # 👋 Hi, I'm Michelle!
-![Profile Banner](https://github.com/user-attachments/assets/b99c61c8-907b-4ee4-ac3c-2f162d2f695b)
 
 ## 🚀 About Me
 I'm a passionate developer with a love for Frontend development. I enjoy working on exciting projects and exploring new technologies.
